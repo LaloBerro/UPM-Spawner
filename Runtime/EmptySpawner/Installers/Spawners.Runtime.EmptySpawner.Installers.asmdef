@@ -1,0 +1,25 @@
+{
+    "name": "Spawners.Runtime.EmptySpawner.Installers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aca92fa7cc9028249bced9154c29521e",
+        "GUID:0a3ae2ba894d42342b9d7c6348029878",
+        "GUID:6dfcbc8ee16e69b4ea1b290c592903ab",
+        "GUID:c8e692615498d8e429eef46e08b65ab2",
+        "GUID:d0d5af49002b00a4b8158b6f02e6a39d",
+        "GUID:279e3889379e55f409f99f2af06beab0",
+        "GUID:1bcddf7bba84e2e40bdb5fd30bc6c738",
+        "GUID:b314ffd25d6408547920d6f846fa06e7",
+        "GUID:9a72f7cb9eb427f48841ec973b8e4ed2",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

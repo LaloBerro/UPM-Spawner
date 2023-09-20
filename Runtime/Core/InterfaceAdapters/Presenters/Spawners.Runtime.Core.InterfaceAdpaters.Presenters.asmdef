@@ -1,0 +1,18 @@
+{
+    "name": "Spawners.Runtime.Core.InterfaceAdapters.Presenters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0d5af49002b00a4b8158b6f02e6a39d",
+        "GUID:279e3889379e55f409f99f2af06beab0",
+        "GUID:0a3ae2ba894d42342b9d7c6348029878"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

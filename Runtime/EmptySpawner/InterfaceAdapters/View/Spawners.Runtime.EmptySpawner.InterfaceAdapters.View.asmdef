@@ -1,0 +1,18 @@
+{
+    "name": "Spawners.Runtime.EmptySpawner.InterfaceAdapters.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:279e3889379e55f409f99f2af06beab0",
+        "GUID:6dfcbc8ee16e69b4ea1b290c592903ab",
+        "GUID:b314ffd25d6408547920d6f846fa06e7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

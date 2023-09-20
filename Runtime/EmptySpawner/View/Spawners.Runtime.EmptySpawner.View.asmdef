@@ -1,10 +1,12 @@
 {
-    "name": "Editor",
+    "name": "Spawners.Runtime.EmptySpawner.View",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [
-        "Editor"
+    "references": [
+        "GUID:1bcddf7bba84e2e40bdb5fd30bc6c738",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:279e3889379e55f409f99f2af06beab0"
     ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

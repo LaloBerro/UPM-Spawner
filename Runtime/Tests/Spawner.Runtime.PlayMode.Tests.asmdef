@@ -1,0 +1,30 @@
+{
+    "name": "Spawner.Runtime.PlayMode.Tests",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Spawner.Runtime.Core.Domain",
+        "Spawners.Runtime.Core.InterfaceAdapters.Presenters",
+        "Spawners.Runtime.EmptySpawner.Domain",
+        "Spawners.Runtime.EmptySpawner.InterfaceAdapters.View",
+        "Spawners.Runtime.EmptySpawner.View",
+        "ObjectPool.Runtime.Core.Domain",
+        "ObjectPool.Runtime.RecyclableObjectPools.InterfaceAdapters.Presenters",
+        "ObjectPool.Runtime.RecyclableObjectPools.InterfaceAdapters.RealtimeEngine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "NSubstitute.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
