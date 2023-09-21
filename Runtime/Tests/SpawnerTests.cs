@@ -51,7 +51,7 @@ namespace Spawner.Runtime.PlayMode.Tests
             spawner.Spawn(emptyData);
 
             //Assert
-            spawnerPresenter.Received(1).ShowEntity(emptyData);
+            spawnerPresenter.Received(1).SpawnWithData(emptyData);
         }
 
         [UnityTest]
