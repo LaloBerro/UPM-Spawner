@@ -2,6 +2,6 @@
 {
     public interface ISpawnerPresenter<TEntityData>
     {
-        void ShowEntity(TEntityData data);
+        void SpawnWithData(TEntityData data);
     }
 }

@@ -15,7 +15,7 @@ namespace Spawners.Runtime.Core.InterfaceAdapters.Presenters
             _spawnedObjectPresenter = spawnedObjectPresenter;
         }
 
-        public void ShowEntity(TEntityData data)
+        public void SpawnWithData(TEntityData data)
         {
             TSpawnedObjectView spawnedObjectView = (TSpawnedObjectView)_objectPool.GetObject();
 

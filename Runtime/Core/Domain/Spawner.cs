@@ -11,7 +11,7 @@
 
         public void Spawn(TEntityData data)
         {
-            _spawnerPresenter.ShowEntity(data);
+            _spawnerPresenter.SpawnWithData(data);
         }
     }
 }
