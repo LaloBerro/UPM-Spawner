@@ -1,5 +1,5 @@
 {
-    "name": "Spawner.Runtime.PlayMode.Tests",
+    "name": "Spawner.Tests.PlayMode",
     "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",

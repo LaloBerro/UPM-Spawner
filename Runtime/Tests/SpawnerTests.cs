@@ -12,7 +12,7 @@ using Spawners.Runtime.EmptySpawner.InterfaceAdapters.View;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace Spawner.Runtime.PlayMode.Tests
+namespace Spawner.Tests.PlayMode
 {
     public class SpawnerTests
     {
