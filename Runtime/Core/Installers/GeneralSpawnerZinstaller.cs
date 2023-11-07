@@ -6,7 +6,7 @@ using ZenjectExtensions.Zinstallers;
 
 namespace Spawners.Runtime.Core.Domain
 {
-    public abstract class GeneralSpawnerZinstaller<TEntityData, TSpawnedObjectView> : InstanceZinstaller<ISpawner<TEntityData>> where TSpawnedObjectView : IRecyclableObjectView
+    public abstract class GeneralSpawnerZinstaller<TEntityData, TSpawnedObjectView> : CachedInstanceZinstaller<ISpawner<TEntityData>> where TSpawnedObjectView : IRecyclableObjectView
     {
         [Inject]
         public IObjectPool<IRecyclableObjectView> _objectPool;
